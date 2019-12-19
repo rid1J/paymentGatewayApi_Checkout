@@ -42,6 +42,13 @@
   <li>Postman v7.13.0</li>
   </ul>
 
+## How to unpack:
+<ol>
+  <li>Click clone or download button.</li>
+  <li>Click open in visual studio.</li>
+  <li>In visual studio, team explorer tab, click clone and wait for project to clone and unpack locally.</li>
+</ol>
+
 ## How to test: 
 <ol>
   <li>Clone repository.</li>
