@@ -40,6 +40,8 @@
     </ul>
   </li>
   <li>Postman v7.13.0</li>
+  <li>Git for windows.</li>
+  <li>Githud extension for visual studio 2019.</li>
   </ul>
 
 ## How to unpack:
