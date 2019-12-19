@@ -1,8 +1,0 @@
-{
-    "url": "https://dev-viq3j6y4.auth0.com/oauth/token",
-    "method": "POST",
-    "client_id": "OItuYdFhyNp6tTlhA0xugIcVDaCMussu",
-    "client_secret": "NZn2WXegH5b3PI3wP4hll7j-lFFpDVo6NvHhqZqufumShjM5_-6FGLBH4B7akrjc",
-    "audience": "paymentAuth",
-    "grant_type": "client_credentials"
-}
