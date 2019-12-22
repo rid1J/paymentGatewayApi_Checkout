@@ -9930,11 +9930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Checkout\\Local\\PaymentGatewayAPI_VSCode\\paymentGatewayApi_Checkout\\XUnit_PaymentGatewayApi\\XUnit_PaymentGatewayApi.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\git\\XUnit_PaymentGatewayApi\\XUnit_PaymentGatewayApi.csproj",
       "projectName": "XUnit_PaymentGatewayApi",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Checkout\\Local\\PaymentGatewayAPI_VSCode\\paymentGatewayApi_Checkout\\XUnit_PaymentGatewayApi\\XUnit_PaymentGatewayApi.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\git\\XUnit_PaymentGatewayApi\\XUnit_PaymentGatewayApi.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Checkout\\Local\\PaymentGatewayAPI_VSCode\\paymentGatewayApi_Checkout\\XUnit_PaymentGatewayApi\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\git\\XUnit_PaymentGatewayApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9953,8 +9953,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\hp\\OneDrive\\Checkout\\Local\\PaymentGatewayAPI_VSCode\\paymentGatewayApi_Checkout\\paymentGatewayApi\\paymentGatewayApi.csproj": {
-              "projectPath": "C:\\Users\\hp\\OneDrive\\Checkout\\Local\\PaymentGatewayAPI_VSCode\\paymentGatewayApi_Checkout\\paymentGatewayApi\\paymentGatewayApi.csproj"
+            "C:\\Users\\hp\\Desktop\\git\\paymentGatewayApi\\paymentGatewayApi.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\git\\paymentGatewayApi\\paymentGatewayApi.csproj"
             }
           }
         }
